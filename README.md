@@ -1,7 +1,7 @@
 # Unemployment Analysis in Poland 2015–2025
----
+
 ![dashboard-main](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/img_1.jpg)
----
+
 ## Overview
 This project presents an analysis of unemployment trends in Poland over the past 10 years (2015–2025).
 The analysis is broken down by:
@@ -34,11 +34,13 @@ The main objectives of this project were:
 ---
 # Results of Analysis
 ### General unemployment trend (2015–2025)
--	2015: ~1.8M unemployed
--	2025: ~0.8M unemployed
+-	2015: **~1.8M** unemployed
+-	2025: **~0.8M** unemployed
   
 **Over 10 years, unemployment in Poland decreased by more than 50%.**
+
 ![screen_1](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_1.jpg)
+
 ---
 ### Distribution by gender
 
