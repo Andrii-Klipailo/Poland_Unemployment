@@ -9,10 +9,12 @@ The analysis is broken down by:
 - Rural and urban areas
 -	Gender
 The goal was to identify patterns, disparities, and long-term dynamics of unemployment across different socio-economic groups.
-Tools & Technologies used:
--	Data source: GUS (Statistics Poland)
--	Data processing: SQL & Power Query
--	Visualization: Power BI (interactive dashboard)
+
+## Tools & Technologies used:
+
+-	Data source: **GUS** (Statistics Poland)
+-	Data processing: **SQL & Power Query**
+-	Visualization: **Power BI** (interactive dashboard)
 
 ## Objectives
 The main objectives of this project were:
@@ -65,26 +67,26 @@ Silesian Voivodeship shows the largest rural–urban disparity.
 ### Unemployment rate dynamics
 - 2015: **7.8%**
 - 2025: **3.8%**
-- 
+
 Poland has achieved a significant reduction in unemployment.
   
 ![screen_4](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_4.jpg)
 ---
 ### Regional patterns
 
-Podkarpackie → Highest unemployment rate
+**Podkarpackie** voivodeship → Highest unemployment rate
 
 ![screen_6](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_6.jpg)
 
-Wielkopolskie → Lowest unemployment rate
+**Wielkopolskie** voivodeship → Lowest unemployment rate
 
 ![screen_7](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_7.jpg)
 
-Mazowieckie → Highest number of unemployed people
+**Mazowieckie** voivodeship → Highest number of unemployed people
 
 ![screen_8](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_8.jpg)
 
-Lubuskie → Lowest number of unemployed people
+**Lubuskie** voivodeship → Lowest number of unemployed people
 
 ![screen_9](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_9.jpg)
 
