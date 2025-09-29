@@ -54,13 +54,13 @@ On average, each year unemployed women outnumber men by ~70,000 individuals.
 
 ![screen_12](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_12.jpg)
 ---
-### Rural vs. urban areas
+### Rural vs. Urban areas
 The gap between unemployment in rural and urban areas halved:
 - 2015 → **200,000** difference
 - 2025 → **100,000** difference
 ![screen_3](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_3.jpg)
 
-Silesian Voivodeship shows the largest rural–urban disparity.
+**Silesian** voivodeship shows the largest rural–urban disparity.
 
 ![screen_13](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_13.jpg)
 ---
