@@ -16,11 +16,11 @@ Tools & Technologies used:
 
 ## Objectives
 The main objectives of this project were:
-•	Analyze unemployment trends in Poland over the last decade.
-•	Compare unemployment rates across voivodeships.
-•	Examine differences between rural and urban areas.
-•	Explore gender-based disparities in unemployment.
-•	Build an interactive Power BI dashboard for easy exploration.
+-	Analyze unemployment trends in Poland over the last decade.
+-	Compare unemployment rates across voivodeships.
+-	Examine differences between rural and urban areas.
+-	Explore gender-based disparities in unemployment.
+-	Build an interactive Power BI dashboard for easy exploration.
 
 ## Methodology
 1.	Data Collection
@@ -36,13 +36,18 @@ The main objectives of this project were:
 ### General unemployment trend (2015–2025)
 -	2015: ~1.8M unemployed
 -	2025: ~0.8M unemployed
+  
 **Over 10 years, unemployment in Poland decreased by more than 50%.**
 ![screen_1](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_1.jpg)
 ---
 ### Distribution by gender
+
 On average, each year unemployed women outnumber men by ~70,000 individuals.
+
 ![screen_2](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_2.jpg)
+
 **Exception:** Podlaskie Voivodeship, where male unemployment exceeds female.
+
 ![screen_12](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_12.jpg)
 ---
 ### Rural vs. urban areas
@@ -50,37 +55,49 @@ The gap between unemployment in rural and urban areas halved:
 - 2015 → 200,000 difference
 - 2025 → 100,000 difference
 ![screen_3](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_3.jpg)
+
 Silesian Voivodeship shows the largest rural–urban disparity.
+
 ![screen_13](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_13.jpg)
 ---
 ### Unemployment rate dynamics
-- 2015: 7.8%
-- 2025: 3.8%
-**Poland has achieved a significant reduction in unemployment.**
+- 2015: **7.8%**
+- 2025: **3.8%**
+- 
+Poland has achieved a significant reduction in unemployment.
+  
 ![screen_4](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_4.jpg)
 ---
 ### Regional patterns
+
 Podkarpackie → Highest unemployment rate
+
 ![screen_6](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_6.jpg)
+
 Wielkopolskie → Lowest unemployment rate
+
 ![screen_7](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_7.jpg)
+
 Mazowieckie → Highest number of unemployed people
+
 ![screen_8](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_8.jpg)
+
 Lubuskie → Lowest number of unemployed people
+
 ![screen_9](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_9.jpg)
+
 ---
 ### Additional insights
+
 Gender disparities appear mainly in urban areas.
+
 ![screen_10](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_10.jpg)
+
 Seasonal trend: Unemployment peaks at the beginning of the year, then decreases over the following months.
+
 ![screen_11](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_11.jpg)
+
 ---
-## Findings and Conclusion
-Over the last decade, Poland has shown a consistent decline in unemployment, with both structural and demographic improvements:
-- The overall unemployment rate dropped by half.
--	Gender and rural–urban disparities remain, but the gaps have narrowed.
--	Regional differences persist, with Podkarpackie struggling most and Wielkopolskie performing best.
-These insights can help policymakers focus on vulnerable regions and groups, while businesses can better understand regional labor market dynamics.
 
 ## Findings and Conclusion
 
