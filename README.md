@@ -41,7 +41,7 @@ The main objectives of this project were:
 
 ![screen_1](https://github.com/Andrii-Klipailo/Poland_Unemployment/blob/main/images/screen_1.jpg)
 
----
+
 ### Distribution by gender
 
 On average, each year unemployed women outnumber men by ~70,000 individuals.
